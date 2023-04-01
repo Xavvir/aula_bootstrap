@@ -6,6 +6,13 @@ body{
     background-color: #838996;
     padding-left: 12px;
 }
+.row{
+    padding-top: 30px;    
+}
+
+.col-lg-4{
+    cursor: pointer;
+}
 
 .parceiros{
     background-color: #838996;
@@ -13,6 +20,16 @@ body{
 
 .seta{
     margin-bottom: 10px;
+}
+
+.bg-footer{
+    background-color: black;
+    padding-top: 10rem;
+    color: white;
+}
+
+.serviços{
+    background-color: #F8F0E3;
 }
 
 .quem-somos{
@@ -23,7 +40,7 @@ body{
     padding-top: 35px;
 }
 
-.margin {
+.margin{
     padding-top: 10px;
     padding-bottom: 20px;
 }
